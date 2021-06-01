@@ -15,11 +15,11 @@ D:/Proyecto Interactivo 1/Gus-and-the-Spooky-Tower
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58865
+59666
 Successfully changed project path to: D:/Proyecto Interactivo 1/Gus-and-the-Spooky-Tower
 D:/Proyecto Interactivo 1/Gus-and-the-Spooky-Tower
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 127.21 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 166.39 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path D:/VideoJuegos 2/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
@@ -35,437 +35,75 @@ Initialize mono
 Mono path[0] = 'D:/VideoJuegos 2/2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'D:/VideoJuegos 2/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/VideoJuegos 2/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56368
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56680
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/VideoJuegos 2/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002051 seconds.
+Registered in 0.002473 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 179.23 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 162.54 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.063 seconds
+- Completed reload, in  2.442 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.029150 seconds.
+Registered in 0.008139 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 216.75 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 162.01 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.711 seconds
+- Completed reload, in  1.862 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.87 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4145 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 183.2 MB.
 System memory in use after: 180.7 MB.
 
 Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4587.
-Total: 4.321200 ms (FindLiveObjects: 0.427900 ms CreateObjectMapping: 0.400500 ms MarkObjects: 2.292800 ms  DeleteObjects: 1.198400 ms)
+Total: 4.790300 ms (FindLiveObjects: 0.368100 ms CreateObjectMapping: 0.309800 ms MarkObjects: 2.602700 ms  DeleteObjects: 1.507900 ms)
 
 ========================================================================
 Received Import Request.
   path: Assets/Macros/Linterna.asset
   artifactKey: Guid(3b134dc2ad453a14ea9cb578c4073bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Macros/Linterna.asset using Guid(3b134dc2ad453a14ea9cb578c4073bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd10e4659417db682910985a5018ea544') in 0.648528 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 54.087702 seconds.
-  path: Assets/Macros/Desaparecer.asset
-  artifactKey: Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Macros/Desaparecer.asset using Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b78dce3a3f6fa75f197fcf62daae528') in 0.011647 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 88.225367 seconds.
-  path: Assets/Macros/Desaparecer.asset
-  artifactKey: Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Macros/Desaparecer.asset using Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af97aa66e098658957d9c0ef0a4549bf') in 0.740342 seconds 
+Start importing Assets/Macros/Linterna.asset using Guid(3b134dc2ad453a14ea9cb578c4073bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45fe676f809ee154f76938e99618fd67') in 0.774231 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.006337 seconds.
+Registered in 0.005280 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.06 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.257 seconds
+- Completed reload, in  1.845 seconds
 Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4064 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 179.0 MB.
 System memory in use after: 176.5 MB.
 
 Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 4590.
-Total: 4.474300 ms (FindLiveObjects: 0.312200 ms CreateObjectMapping: 0.241500 ms MarkObjects: 2.542600 ms  DeleteObjects: 1.377000 ms)
+Total: 4.381000 ms (FindLiveObjects: 0.334200 ms CreateObjectMapping: 0.258800 ms MarkObjects: 2.631600 ms  DeleteObjects: 1.154700 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 44.049347 seconds.
-  path: Assets/Macros/Desaparecer.asset
-  artifactKey: Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Macros/Desaparecer.asset using Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2905aad32fbfbe3e88f6f1f5aff82a7') in 1.316253 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004948 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.215 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 1.08 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4064 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 179.1 MB.
-System memory in use after: 176.6 MB.
-
-Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 4593.
-Total: 4.619400 ms (FindLiveObjects: 0.329500 ms CreateObjectMapping: 0.227500 ms MarkObjects: 2.848900 ms  DeleteObjects: 1.211600 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 150.731548 seconds.
-  path: Assets/Macros/Desaparecer.asset
-  artifactKey: Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Macros/Desaparecer.asset using Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c26d6b258a7802e6d1faf58a57cae650') in 1.389434 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004758 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.215 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4064 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 179.1 MB.
-System memory in use after: 176.6 MB.
-
-Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 4596.
-Total: 4.530700 ms (FindLiveObjects: 0.312600 ms CreateObjectMapping: 0.279300 ms MarkObjects: 2.677600 ms  DeleteObjects: 1.260100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 45.437036 seconds.
-  path: Assets/Plataforma de tiempo.prefab
-  artifactKey: Guid(53f9639c680f86b49acf34efc3744c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Plataforma de tiempo.prefab using Guid(53f9639c680f86b49acf34efc3744c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c6086f9b32ca6c25e2003828df982dc') in 1.691081 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 105.852964 seconds.
-  path: Assets/Hacha.fbx
-  artifactKey: Guid(aee7c825ac8f2a34295cc146bd380065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Hacha.fbx using Guid(aee7c825ac8f2a34295cc146bd380065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7ff13e5e48457b229d5580914177d51') in 0.212379 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 170.237540 seconds.
-  path: Assets/Hacha.blend
-  artifactKey: Guid(ca023256ddec46c4b994b7b71df4ae77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Hacha.blend using Guid(ca023256ddec46c4b994b7b71df4ae77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4554868b97182fb22ad352adb7ad2a5c') in 0.046106 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 21.740494 seconds.
-  path: Assets/Hacha.fbx
-  artifactKey: Guid(aee7c825ac8f2a34295cc146bd380065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Hacha.fbx using Guid(aee7c825ac8f2a34295cc146bd380065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '961e6ad0b16856bf7ce9db36c6e678dd') in 0.040849 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006313 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.807 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4064 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 185.8 MB.
-System memory in use after: 183.2 MB.
-
-Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 4648.
-Total: 5.946300 ms (FindLiveObjects: 0.494600 ms CreateObjectMapping: 0.547800 ms MarkObjects: 3.157700 ms  DeleteObjects: 1.743900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007333 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.568 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4064 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 185.8 MB.
-System memory in use after: 183.2 MB.
-
-Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 4651.
-Total: 14.878100 ms (FindLiveObjects: 1.738200 ms CreateObjectMapping: 0.559100 ms MarkObjects: 10.557500 ms  DeleteObjects: 2.021100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 393.284825 seconds.
-  path: Assets/Macros/Daño.asset
-  artifactKey: Guid(9081776673de8114cb724f845de677d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Macros/Daño.asset using Guid(9081776673de8114cb724f845de677d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28d895ee2601c3d4203fca5d1d892a33') in 0.291064 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000380 seconds.
-  path: Assets/Macros/Desaparecer.asset
-  artifactKey: Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Macros/Desaparecer.asset using Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f620fce1eefd8fc8d8457c0918fe967') in 1.441535 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 22.404177 seconds.
-  path: Assets/Macros/Daño.asset
-  artifactKey: Guid(9081776673de8114cb724f845de677d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Macros/Daño.asset using Guid(9081776673de8114cb724f845de677d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Could not load connection between 'CollisionCheck' of 'SuperUnit#54f0c...' and 'enter' of 'InvokeMember#d0497...'.
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogWarning (object)
-Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
-Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
-Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
-Unity.VisualScripting.Serialization:AwaitDependencies (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:256)
-Unity.VisualScripting.Graph:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:93)
-Unity.VisualScripting.FullSerializer.fsSerializationCallbackReceiverProcessor:OnAfterDeserialize (System.Type,object) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsISerializationCallbacks.cs:127)
-Unity.VisualScripting.FullSerializer.fsSerializer:Invoke_OnAfterDeserialize (System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>,System.Type,object) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:1186)
-Unity.VisualScripting.FullSerializer.fsSerializer:TryDeserialize (Unity.VisualScripting.FullSerializer.fsData,System.Type,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:673)
-Unity.VisualScripting.FullSerializer.fsReflectedConverter:TryDeserialize (Unity.VisualScripting.FullSerializer.fsData,object&,System.Type) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/Converters/fsReflectedConverter.cs:97)
-Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_5_Converter (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:897)
-Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_4_Cycles (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:887)
-Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_3_Inheritance (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&,System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:862)
-Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_2_Version (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&,System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:766)
-Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_1_CycleReference (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&,System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:711)
-Unity.VisualScripting.FullSerializer.fsSerializer:TryDeserialize (Unity.VisualScripting.FullSerializer.fsData,System.Type,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:664)
-Unity.VisualScripting.Serialization:DeserializeJsonUtil (Unity.VisualScripting.FullSerializer.fsSerializer,string,object&,bool) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:182)
-Unity.VisualScripting.Serialization:DeserializeJson (Unity.VisualScripting.FullSerializer.fsSerializer,string,object&,bool) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:196)
-Unity.VisualScripting.Serialization:DeserializeInto (Unity.VisualScripting.SerializationData,object&,bool) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:122)
-Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:50)
-
-(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
-
- -> (artifact id: 'cba39737c360300522f9b971a616d2e8') in 0.284460 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005887 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 2.38 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.149 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 1.14 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4064 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 185.8 MB.
-System memory in use after: 183.3 MB.
-
-Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 4654.
-Total: 4.952100 ms (FindLiveObjects: 0.318700 ms CreateObjectMapping: 0.219900 ms MarkObjects: 2.762000 ms  DeleteObjects: 1.649400 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 60.924604 seconds.
-  path: Assets/Macros/Desaparecer.asset
-  artifactKey: Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Macros/Desaparecer.asset using Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35f2b014cd5d3008111013d881733728') in 1.912026 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007398 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.27 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.522 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 1.75 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4064 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 185.8 MB.
-System memory in use after: 183.3 MB.
-
-Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 4657.
-Total: 8.872400 ms (FindLiveObjects: 0.728800 ms CreateObjectMapping: 0.492300 ms MarkObjects: 3.843100 ms  DeleteObjects: 3.805100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 29.626183 seconds.
-  path: Assets/Macros/Desaparecer.asset
-  artifactKey: Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Macros/Desaparecer.asset using Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f50db538e81abf82427f545bbf082f91') in 1.831010 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006284 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.492 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4064 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 185.8 MB.
-System memory in use after: 183.3 MB.
-
-Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 4660.
-Total: 6.976400 ms (FindLiveObjects: 0.392500 ms CreateObjectMapping: 0.314300 ms MarkObjects: 4.357500 ms  DeleteObjects: 1.910700 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 32.075263 seconds.
-  path: Assets/Macros/Desaparecer.asset
-  artifactKey: Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Macros/Desaparecer.asset using Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e60c77f3c602b63ab89dad2f9eb06796') in 1.779722 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005460 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.514 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 1.30 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4064 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 185.9 MB.
-System memory in use after: 183.3 MB.
-
-Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 4663.
-Total: 4.537100 ms (FindLiveObjects: 0.352700 ms CreateObjectMapping: 0.553500 ms MarkObjects: 2.422700 ms  DeleteObjects: 1.206500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 70.222452 seconds.
-  path: Assets/Macros/Desaparecer.asset
-  artifactKey: Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Macros/Desaparecer.asset using Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '275c7f2bdb60220823f4ff4c28f81819') in 2.194339 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006812 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 2.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.005 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 1.67 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4064 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 185.9 MB.
-System memory in use after: 183.3 MB.
-
-Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 4666.
-Total: 27.159200 ms (FindLiveObjects: 0.567500 ms CreateObjectMapping: 0.511500 ms MarkObjects: 16.040900 ms  DeleteObjects: 10.036900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 29.747862 seconds.
-  path: Assets/Macros/Desaparecer.asset
-  artifactKey: Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Macros/Desaparecer.asset using Guid(378e487291bdbfe4a8b2464e4999b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8565f7e461fa9f7ed5cc0e0e0b2dc212') in 1.772788 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004923 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Proyecto Interactivo 1\Gus-and-the-Spooky-Tower\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.652 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4064 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 185.8 MB.
-System memory in use after: 183.3 MB.
-
-Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 4669.
-Total: 4.380400 ms (FindLiveObjects: 0.375700 ms CreateObjectMapping: 0.295500 ms MarkObjects: 2.492900 ms  DeleteObjects: 1.215100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 57.246162 seconds.
-  path: Assets/Macros/Linterna.asset
-  artifactKey: Guid(3b134dc2ad453a14ea9cb578c4073bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Macros/Linterna.asset using Guid(3b134dc2ad453a14ea9cb578c4073bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '328e2bb206935b688374b3f1c3c1d1e8') in 0.869183 seconds 
+  Time since last request: 44.223570 seconds.
+  path: Assets/Scenes/Nivel 2.unity
+  artifactKey: Guid(95c4b9b0cc77f8f46b498ebbcd1e5f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Nivel 2.unity using Guid(95c4b9b0cc77f8f46b498ebbcd1e5f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14316c1c01432ba796b2f85fbd58e144') in 0.044000 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
